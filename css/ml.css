@@ -2,7 +2,7 @@ body{
     background-color: rgb(249, 249, 227);
 }
 .container-content {
-    padding: 10px 30px;
+    padding: 10px 10px;
     display: grid;
     grid-template-columns: repeat(1, 1fr); /* Три столбца */
     justify-items: center;
