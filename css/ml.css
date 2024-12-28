@@ -109,6 +109,12 @@ button.hidden {
     .content-text-top {
         font-size: 24px;
     }
+    button.prev {
+    left: 60px;
+    }
+    button.next {
+    right: 60px;
+    }
 }
 @media (min-width: 600px) and (max-width: 900px) {
     .content {
